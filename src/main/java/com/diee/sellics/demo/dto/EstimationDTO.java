@@ -1,5 +1,8 @@
 package com.diee.sellics.demo.dto;
 
+/**
+ * Wraps information of an Estimation
+ */
 public class EstimationDTO {
 
     private String keyword;
