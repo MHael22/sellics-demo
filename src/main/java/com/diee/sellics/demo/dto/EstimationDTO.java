@@ -1,6 +1,7 @@
 package com.diee.sellics.demo.dto;
 
 public class EstimationDTO {
+
     private String keyword;
     private Integer score;
 
